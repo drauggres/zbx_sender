@@ -1,0 +1,19 @@
+{
+  "name": "zbx_sender",
+  "version": "0.2.0",
+  "description": "pure JavaScript zabbix_sender implementation",
+  "main": "zbx_sender.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/drauggres/zbx_sender.git"
+  },
+  "keywords": [
+    "zabbix",
+    "zabbix_sender"
+  ],
+  "author": {
+    "name": "Sergey Volkov",
+    "email": "drauggres@gmail.com"
+  },
+  "license": "MIT"
+}
